@@ -15,7 +15,7 @@ I am a graduate of Computer Science at Poznan University of Technology. I comple
     
 ## Tech skills
   - Databases: SQL
-  - Languages: HTML, CSS, C#
+  - Languages: HTML5, CSS3, C#
   - Creating test cases
   - Reporting bugs
   - SCRUM
