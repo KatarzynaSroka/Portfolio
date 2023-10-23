@@ -11,14 +11,13 @@ I am a graduate of Computer Science at Poznan University of Technology. I comple
   - Visual Studio, Visual Studio Code
   - MS SQL Server Management Studio
   - Github
-  - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
     
 ## Tech skills
   - Databases: SQL
   - Languages: HTML5, CSS3, C#
   - Creating test cases
   - Reporting bugs
-  - SCRUM
+  - Scrum
 
 ## Technical Books read
 * [Testowanie oprogramowania. Podręcznik dla początkujących ](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm?_ga=NC.1384359092-1587824560&abpar1=desktop&abpar2=236563.1746781.&abpcid=41&abpid=11&bb_coid=3069019&bb_id=3#format/d) (W trakcie)
