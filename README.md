@@ -7,7 +7,7 @@ I am a graduate of Computer Science at Poznan University of Technology. I comple
 ## Tools
   - [Jira](https://www.atlassian.com/software/jira0) - Issue tracking and project management tool for developers
   - [Trello](https://trello.com/) - Issue tracking and project management tool for developers
-  - TestRail
+  - TestRail(https://www.testrail.com/) - QA platform to manage all of testing processes
   - Visual Studio, Visual Studio Code
   - MS SQL Server Management Studio
   - Github
@@ -26,5 +26,5 @@ I am a graduate of Computer Science at Poznan University of Technology. I comple
   - 
     
 ## My bug reports
-  - 
+  - Aplikcja do zarządzania wydatkami(https://trello.com/invite/b/GPRSXaX3/ATTId353cb43e4c829ea1d640231ae4d98c8D7525B00/aplikacja-wydatki)
 
