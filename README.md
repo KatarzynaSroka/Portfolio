@@ -26,5 +26,5 @@ I am a graduate of Computer Science at Poznan University of Technology. I comple
   - 
     
 ## My bug reports
-  - [Aplikcja do zarządzania wydatkami](https://trello.com/invite/b/GPRSXaX3/ATTI33d3c65f602fb843ed77f973732a885b93D526FC/aplikacja-wydatki)
+  - [Aplikcja do zarządzania wydatkami](https://trello.com/b/GPRSXaX3/aplikacja-wydatki)
 
