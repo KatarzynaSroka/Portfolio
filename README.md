@@ -27,4 +27,5 @@ I am a graduate of Computer Science at Poznan University of Technology. I comple
     
 ## My bug reports
   - [Aplikcja do zarządzania wydatkami](https://trello.com/b/GPRSXaX3/aplikacja-wydatki)
+  - [Testowanie HTML](https://trello.com/b/yoB9SoBM/goit)
 
