@@ -2,7 +2,7 @@
 My Tester's Portfolio
 
 ## About me
-I am a graduate of Computer Science at Poznan University of Technology. I completed both my bachelor’s and master's studies with speciality in Security of Information Systems. I am interested in software testing and I would like to develop in this area. On this site I would like to share my all gained experience.
+I am a graduate of Computer Science at Poznan University of Technology. I completed both my bachelor’s and master's studies with speciality in Security of Information Systems. I am interested in software security and testing and I would like to develop in this area. On this site I would like to share my all gained experience.
 
 ## Tools
   - [Jira](https://www.atlassian.com/software/jira0) - Issue tracking and project management tool for developers
